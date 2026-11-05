@@ -19,7 +19,7 @@ Par [Devlish](https://www.instagram.com/devlish_team/), une équipe de jeunes de
 Il faut [Claude Code](https://claude.com/claude-code), Git et Python 3.
 
 ```bash
-git clone https://github.com/<votre-compte>/devlish-claude-kit.git
+git clone https://github.com/Mohamed-EDDAHMANI/devlish-claude-kit.git
 cd devlish-claude-kit
 ./install.sh /chemin/vers/votre/projet
 ```
